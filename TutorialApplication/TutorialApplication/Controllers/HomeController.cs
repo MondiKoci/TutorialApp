@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TutorialApplication.Controllers
 {
-    [Area("Help")]
+    
     public class HomeController : Controller
     {
         public IActionResult Index()
