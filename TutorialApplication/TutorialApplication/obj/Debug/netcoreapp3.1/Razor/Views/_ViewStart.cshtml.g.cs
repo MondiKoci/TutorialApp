@@ -19,15 +19,8 @@ using TutorialApplication;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "C:\OneDrive\OneDrive - George Brown College\Semester IV\Courses\Web Application Development\TutorialApplication\TutorialApplication\TutorialApplication\Views\_ViewImports.cshtml"
-using TutorialApplication.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f70d9afee80c0d174a81c4f4c6cf40f6a7b23445", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4d801d411f860ccbb41ec02f4694e116a6273d9c", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
